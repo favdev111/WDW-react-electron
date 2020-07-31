@@ -1,0 +1,20 @@
+{
+  "application_name": "Sqrl",
+  "application_version": "1.2.2",
+  "back": "戻る",
+  "block_height": "ブロック高",
+  "cancel": "キャンセル",
+  "close": "閉じる",
+  "confirm": "確認",
+  "continue_setup": "アカウント設定を続行する",
+  "copy_to_clipboard": "クリップボードにコピー",
+  "error": "エラー",
+  "loading": "ロードしました",
+  "next": "次へ",
+  "property": "プロパティ",
+  "remove": "削除",
+  "reset_application": "デバッグ: アプリケーションをリセット",
+  "search": "検索...",
+  "value": "値",
+  "waiting": "待機中..."
+}

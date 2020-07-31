@@ -1,0 +1,20 @@
+{
+  "application_name": "Sqrl",
+  "application_version": "1.2.2",
+  "back": "Tagasi",
+  "block_height": "Ploki kõrgus",
+  "cancel": "Loobu",
+  "close": "Sulge",
+  "confirm": "Kinnita",
+  "continue_setup": "Jätka konto seadistamisega",
+  "copy_to_clipboard": "Kopeeri vahemälusse",
+  "error": "Tõrge",
+  "loading": "Laaditud",
+  "next": "Edasi",
+  "property": "Vara",
+  "remove": "Eemalda",
+  "reset_application": "DEBUG: Taaskäivita rakendus",
+  "search": "Otsi...",
+  "value": "Väärtus",
+  "waiting": "Ootan..."
+}

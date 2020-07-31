@@ -1,0 +1,24 @@
+{
+  "name": "Sqrl",
+  "productName": "Sqrl",
+  "version": "1.2.2",
+  "description": "",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Telos Foundation",
+    "email": "hello@telosfoundation.io",
+    "url": "https://github.com/Telos-Foundation"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r babel-register ../internals/scripts/ElectronRebuild.js",
+    "postinstall": "npm run electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "eos-rc-parser": "^1.0.4",
+    "eosjs2": "0.0.13",
+    "ipfs-http-client": "^31.0.1",
+    "scrypt-async": "^2.0.1",
+    "socket.io": "^2.2.0"
+  }
+}

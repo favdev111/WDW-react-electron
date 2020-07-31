@@ -1,0 +1,20 @@
+{
+  "application_name": "Sqrl",
+  "application_version": "1.2.2",
+  "back": "Back",
+  "block_height": "Numero di Blocco",
+  "cancel": "Cancella",
+  "close": "Chiudi",
+  "confirm": "Conferma",
+  "continue_setup": "Continue Account Setup",
+  "copy_to_clipboard": "Copy to Clipboard",
+  "error": "Error",
+  "loading": "Caricato",
+  "next": "Next",
+  "property": "Property",
+  "remove": "Remove",
+  "reset_application": "DEBUG: Reset dell'applicazione",
+  "search": "Cerca...",
+  "value": "Value",
+  "waiting": "In attesa..."
+}

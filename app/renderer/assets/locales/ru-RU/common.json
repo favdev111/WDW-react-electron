@@ -1,0 +1,20 @@
+{
+  "application_name": "Sqrl",
+  "application_version": "1.2.2",
+  "back": "Назад",
+  "block_height": "Высота Блока",
+  "cancel": "Отменить",
+  "close": "Закрыть",
+  "confirm": "Подтвердить",
+  "continue_setup": "Продолжить установку",
+  "copy_to_clipboard": "Скопировать в Буфер",
+  "error": "Ошибка",
+  "loading": "Загружено",
+  "next": "Далее",
+  "property": "Свойство",
+  "remove": "Удалить",
+  "reset_application": "DEBUG: Сброс приложения",
+  "search": "Поиск...",
+  "value": "Значение",
+  "waiting": "Ждем..."
+}

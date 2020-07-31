@@ -1,0 +1,9 @@
+{
+  "broadcast_transaction_broadcast": "Отправить Транзакцию",
+  "broadcast_transaction_confirm_details_content": "Проверьте содержимое Транзакции, и если все в порядке, нажмите кнопку ниже для отправки Транзакции.",
+  "broadcast_transaction_confirm_details_title": "Проверка Транзакции",
+  "broadcast_transaction_no_details_content": "Выберите файл с Транзакцией для подписи",
+  "broadcast_transaction_no_details_title": "Нет Транзакции для загрузки",
+  "broadcast_transaction_not_signed": "Нельзя отправить неподписанную Транзакцию.",
+  "broadcast_transaction_signbroadcast": "Подписать + Отправить Транзакцию"
+}
